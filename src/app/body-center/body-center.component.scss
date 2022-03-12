@@ -1,0 +1,31 @@
+.izquierda{
+  color: midnightblue;
+  text-align: right;
+  float: right;
+}
+.derecha{
+  color: midnightblue;
+  text-align: right;
+}
+
+img.derecha {
+  float: right;
+}
+img.izquierda {
+  float:  left;
+}
+
+h1,h2,h5{
+  color: midnightblue;
+
+}
+
+p{
+
+}
+
+.container {
+  hyphens: auto;
+  word-wrap: break-word;
+  word-break: break-word;
+}
